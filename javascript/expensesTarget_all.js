@@ -1,4 +1,3 @@
-
 var targetExpensePieChart = dc.pieChart("#targetExpenses-pie-chart", "targetExpenses");
 var targetExpenseChart = dc.rowChart("#targetExpenses-chart", "targetExpenses");
 var targetExpByCampusChart = dc.barChart("#targExp-by-campus-chart", "targetExpenses");
