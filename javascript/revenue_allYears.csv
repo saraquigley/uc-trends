@@ -1,0 +1,496 @@
+revenueSource,campus,amount,year
+Auxiliary Enterprises,Berkeley,147714,2008
+Educational Activities,Berkeley,72883,2008
+Grants and Contracts,Berkeley,543159,2008
+Investment Income,Berkeley,88077,2008
+Medical Centers,Berkeley,0,2008
+Other Revenues,Berkeley,18463,2008
+Private Gifts,Berkeley,150362,2008
+State Educational Appropriations,Berkeley,506186,2008
+State Financing Appropriations,Berkeley,19059,2008
+Student Tuition and Fees,Berkeley,331220,2008
+Auxiliary Enterprises,Berkeley,149035,2009
+Educational Activities,Berkeley,75061,2009
+Grants and Contracts,Berkeley,609845,2009
+Investment Income,Berkeley,85872,2009
+Medical Centers,Berkeley,0,2009
+Other Revenues,Berkeley,20510,2009
+Private Gifts,Berkeley,143368,2009
+State Educational Appropriations,Berkeley,410948,2009
+State Financing Appropriations,Berkeley,19389,2009
+Student Tuition and Fees,Berkeley,362099,2009
+Auxiliary Enterprises,Berkeley,151841,2010
+Educational Activities,Berkeley,70513,2010
+Grants and Contracts,Berkeley,703181,2010
+Investment Income,Berkeley,76151,2010
+Medical Centers,Berkeley,0,2010
+Other Revenues,Berkeley,24713,2010
+Private Gifts,Berkeley,144872,2010
+State Educational Appropriations,Berkeley,474794,2010
+State Financing Appropriations,Berkeley,13830,2010
+Student Tuition and Fees,Berkeley,411952,2010
+Auxiliary Enterprises,Berkeley,151684,2011
+Educational Activities,Berkeley,154902,2011
+Grants and Contracts,Berkeley,747232,2011
+Investment Income,Berkeley,60133,2011
+Medical Centers,Berkeley,0,2011
+Other Revenues,Berkeley,39771,2011
+Private Gifts,Berkeley,183310,2011
+State Educational Appropriations,Berkeley,370061,2011
+State Financing Appropriations,Berkeley,20678,2011
+Student Tuition and Fees,Berkeley,508153,2011
+Auxiliary Enterprises,Berkeley,160531,2012
+Educational Activities,Berkeley,81485,2012
+Grants and Contracts,Berkeley,729713,2012
+Investment Income,Berkeley,63610,2012
+Medical Centers,Berkeley,0,2012
+Other Revenues,Berkeley,34394,2012
+Private Gifts,Berkeley,180488,2012
+State Educational Appropriations,Berkeley,268992,2012
+State Financing Appropriations,Berkeley,19509,2012
+Student Tuition and Fees,Berkeley,623967,2012
+Auxiliary Enterprises,Davis,93319,2008
+Educational Activities,Davis,256986,2008
+Grants and Contracts,Davis,535094,2008
+Investment Income,Davis,41940,2008
+Medical Centers,Davis,1021387,2008
+Other Revenues,Davis,29427,2008
+Private Gifts,Davis,38364,2008
+State Educational Appropriations,Davis,452733,2008
+State Financing Appropriations,Davis,21735,2008
+Student Tuition and Fees,Davis,246200,2008
+Auxiliary Enterprises,Davis,98660,2009
+Educational Activities,Davis,259841,2009
+Grants and Contracts,Davis,583167,2009
+Investment Income,Davis,39028,2009
+Medical Centers,Davis,1070110,2009
+Other Revenues,Davis,35469,2009
+Private Gifts,Davis,40036,2009
+State Educational Appropriations,Davis,367552,2009
+State Financing Appropriations,Davis,21859,2009
+Student Tuition and Fees,Davis,274329,2009
+Auxiliary Enterprises,Davis,92727,2010
+Educational Activities,Davis,252815,2010
+Grants and Contracts,Davis,650423,2010
+Investment Income,Davis,33676,2010
+Medical Centers,Davis,1106077,2010
+Other Revenues,Davis,41845,2010
+Private Gifts,Davis,84936,2010
+State Educational Appropriations,Davis,434570,2010
+State Financing Appropriations,Davis,16576,2010
+Student Tuition and Fees,Davis,312234,2010
+Auxiliary Enterprises,Davis,88428,2011
+Educational Activities,Davis,282032,2011
+Grants and Contracts,Davis,699726,2011
+Investment Income,Davis,36605,2011
+Medical Centers,Davis,1293998,2011
+Other Revenues,Davis,53271,2011
+Private Gifts,Davis,45565,2011
+State Educational Appropriations,Davis,382697,2011
+State Financing Appropriations,Davis,29420,2011
+Student Tuition and Fees,Davis,362186,2011
+Auxiliary Enterprises,Davis,92348,2012
+Educational Activities,Davis,292417,2012
+Grants and Contracts,Davis,698838,2012
+Investment Income,Davis,47846,2012
+Medical Centers,Davis,1339712,2012
+Other Revenues,Davis,56822,2012
+Private Gifts,Davis,52922,2012
+State Educational Appropriations,Davis,297493,2012
+State Financing Appropriations,Davis,29489,2012
+Student Tuition and Fees,Davis,405381,2012
+Auxiliary Enterprises,Irvine,158690,2008
+Educational Activities,Irvine,136078,2008
+Grants and Contracts,Irvine,299291,2008
+Investment Income,Irvine,15534,2008
+Medical Centers,Irvine,518159,2008
+Other Revenues,Irvine,46323,2008
+Private Gifts,Irvine,40107,2008
+State Educational Appropriations,Irvine,238601,2008
+State Financing Appropriations,Irvine,23076,2008
+Student Tuition and Fees,Irvine,213423,2008
+Auxiliary Enterprises,Irvine,157493,2009
+Educational Activities,Irvine,148238,2009
+Grants and Contracts,Irvine,333255,2009
+Investment Income,Irvine,14559,2009
+Medical Centers,Irvine,576013,2009
+Other Revenues,Irvine,45815,2009
+Private Gifts,Irvine,30128,2009
+State Educational Appropriations,Irvine,193709,2009
+State Financing Appropriations,Irvine,24108,2009
+Student Tuition and Fees,Irvine,231149,2009
+Auxiliary Enterprises,Irvine,129933,2010
+Educational Activities,Irvine,154302,2010
+Grants and Contracts,Irvine,334648,2010
+Investment Income,Irvine,13192,2010
+Medical Centers,Irvine,605248,2010
+Other Revenues,Irvine,50417,2010
+Private Gifts,Irvine,34383,2010
+State Educational Appropriations,Irvine,222799,2010
+State Financing Appropriations,Irvine,28856,2010
+Student Tuition and Fees,Irvine,262194,2010
+Auxiliary Enterprises,Irvine,128615,2011
+Educational Activities,Irvine,172609,2011
+Grants and Contracts,Irvine,366830,2011
+Investment Income,Irvine,19803,2011
+Medical Centers,Irvine,704564,2011
+Other Revenues,Irvine,59577,2011
+Private Gifts,Irvine,48547,2011
+State Educational Appropriations,Irvine,254164,2011
+State Financing Appropriations,Irvine,43904,2011
+Student Tuition and Fees,Irvine,308406,2011
+Auxiliary Enterprises,Irvine,155998,2012
+Educational Activities,Irvine,184951,2012
+Grants and Contracts,Irvine,367425,2012
+Investment Income,Irvine,20235,2012
+Medical Centers,Irvine,726952,2012
+Other Revenues,Irvine,53775,2012
+Private Gifts,Irvine,45477,2012
+State Educational Appropriations,Irvine,184547,2012
+State Financing Appropriations,Irvine,43674,2012
+Student Tuition and Fees,Irvine,369292,2012
+Auxiliary Enterprises,Los Angeles,310416,2008
+Educational Activities,Los Angeles,538104,2008
+Grants and Contracts,Los Angeles,863205,2008
+Investment Income,Los Angeles,73962,2008
+Medical Centers,Los Angeles,1163429,2008
+Other Revenues,Los Angeles,53400,2008
+Private Gifts,Los Angeles,170303,2008
+State Educational Appropriations,Los Angeles,642755,2008
+State Financing Appropriations,Los Angeles,29543,2008
+Student Tuition and Fees,Los Angeles,345037,2008
+Auxiliary Enterprises,Los Angeles,309881,2009
+Educational Activities,Los Angeles,593295,2009
+Grants and Contracts,Los Angeles,868850,2009
+Investment Income,Los Angeles,76355,2009
+Medical Centers,Los Angeles,1395441,2009
+Other Revenues,Los Angeles,51638,2009
+Private Gifts,Los Angeles,184907,2009
+State Educational Appropriations,Los Angeles,521823,2009
+State Financing Appropriations,Los Angeles,29730,2009
+Student Tuition and Fees,Los Angeles,401513,2009
+Auxiliary Enterprises,Los Angeles,300575,2010
+Educational Activities,Los Angeles,677478,2010
+Grants and Contracts,Los Angeles,969587,2010
+Investment Income,Los Angeles,78908,2010
+Medical Centers,Los Angeles,1524537,2010
+Other Revenues,Los Angeles,52423,2010
+Private Gifts,Los Angeles,189790,2010
+State Educational Appropriations,Los Angeles,601155,2010
+State Financing Appropriations,Los Angeles,22645,2010
+Student Tuition and Fees,Los Angeles,445373,2010
+Auxiliary Enterprises,Los Angeles,304557,2011
+Educational Activities,Los Angeles,769366,2011
+Grants and Contracts,Los Angeles,58288,2011
+Investment Income,Los Angeles,76089,2011
+Medical Centers,Los Angeles,1679483,2011
+Other Revenues,Los Angeles,57306,2011
+Private Gifts,Los Angeles,195076,2011
+State Educational Appropriations,Los Angeles,479790,2011
+State Financing Appropriations,Los Angeles,29817,2011
+Student Tuition and Fees,Los Angeles,503072,2011
+Auxiliary Enterprises,Los Angeles,319139,2012
+Educational Activities,Los Angeles,899793,2012
+Grants and Contracts,Los Angeles,1005674,2012
+Investment Income,Los Angeles,110139,2012
+Medical Centers,Los Angeles,1740828,2012
+Other Revenues,Los Angeles,94017,2012
+Private Gifts,Los Angeles,226020,2012
+State Educational Appropriations,Los Angeles,379541,2012
+State Financing Appropriations,Los Angeles,29909,2012
+Student Tuition and Fees,Los Angeles,578671,2012
+Auxiliary Enterprises,Merced,9775,2008
+Grants and Contracts,Merced,42372,2008
+Investment Income,Merced,1289,2008
+Medical Centers,Merced,0,2008
+Other Revenues,Merced,1278,2008
+Private Gifts,Merced,4054,2008
+State Educational Appropriations,Merced,11022,2008
+State Financing Appropriations,Merced,16413,2008
+Student Tuition and Fees,Merced,15266,2008
+Auxiliary Enterprises,Merced,9666,2009
+Grants and Contracts,Merced,44244,2009
+Investment Income,Merced,1705,2009
+Medical Centers,Merced,0,2009
+Other Revenues,Merced,1759,2009
+Private Gifts,Merced,3075,2009
+State Educational Appropriations,Merced,8948,2009
+State Financing Appropriations,Merced,16408,2009
+Student Tuition and Fees,Merced,11327,2009
+Auxiliary Enterprises,Merced,12713,2010
+Grants and Contracts,Merced,48046,2010
+Investment Income,Merced,1724,2010
+Medical Centers,Merced,0,2010
+Other Revenues,Merced,1756,2010
+Private Gifts,Merced,1528,2010
+State Educational Appropriations,Merced,10309,2010
+State Financing Appropriations,Merced,16408,2010
+Student Tuition and Fees,Merced,22276,2010
+Auxiliary Enterprises,Merced,16408,2011
+Grants and Contracts,Merced,50805,2011
+Investment Income,Merced,2075,2011
+Medical Centers,Merced,0,2011
+Other Revenues,Merced,1994,2011
+Private Gifts,Merced,3435,2011
+State Educational Appropriations,Merced,52466,2011
+State Financing Appropriations,Merced,16421,2011
+Student Tuition and Fees,Merced,37037,2011
+Auxiliary Enterprises,Merced,17005,2012
+Grants and Contracts,Merced,49837,2012
+Investment Income,Merced,2166,2012
+Medical Centers,Merced,0,2012
+Other Revenues,Merced,4938,2012
+Private Gifts,Merced,2364,2012
+State Educational Appropriations,Merced,54549,2012
+State Financing Appropriations,Merced,16354,2012
+Student Tuition and Fees,Merced,47673,2012
+Auxiliary Enterprises,Riverside,52679,2008
+Educational Activities,Riverside,3250,2008
+Grants and Contracts,Riverside,116681,2008
+Investment Income,Riverside,5063,2008
+Medical Centers,Riverside,0,2008
+Other Revenues,Riverside,14975,2008
+Private Gifts,Riverside,13564,2008
+State Educational Appropriations,Riverside,154223,2008
+State Financing Appropriations,Riverside,9326,2008
+Student Tuition and Fees,Riverside,124254,2008
+Auxiliary Enterprises,Riverside,53998,2009
+Educational Activities,Riverside,4116,2009
+Grants and Contracts,Riverside,120869,2009
+Investment Income,Riverside,4622,2009
+Medical Centers,Riverside,0,2009
+Other Revenues,Riverside,11300,2009
+Private Gifts,Riverside,12543,2009
+State Educational Appropriations,Riverside,125206,2009
+State Financing Appropriations,Riverside,9524,2009
+Student Tuition and Fees,Riverside,136957,2009
+Auxiliary Enterprises,Riverside,54390,2010
+Educational Activities,Riverside,4686,2010
+Grants and Contracts,Riverside,146815,2010
+Investment Income,Riverside,3496,2010
+Medical Centers,Riverside,0,2010
+Other Revenues,Riverside,11824,2010
+Private Gifts,Riverside,9314,2010
+State Educational Appropriations,Riverside,146727,2010
+State Financing Appropriations,Riverside,10169,2010
+Student Tuition and Fees,Riverside,160543,2010
+Auxiliary Enterprises,Riverside,58032,2011
+Educational Activities,Riverside,9423,2011
+Grants and Contracts,Riverside,163412,2011
+Investment Income,Riverside,7333,2011
+Medical Centers,Riverside,0,2011
+Other Revenues,Riverside,12388,2011
+Private Gifts,Riverside,13072,2011
+State Educational Appropriations,Riverside,199625,2011
+State Financing Appropriations,Riverside,13458,2011
+Student Tuition and Fees,Riverside,196053,2011
+Auxiliary Enterprises,Riverside,57528,2012
+Educational Activities,Riverside,5894,2012
+Grants and Contracts,Riverside,154888,2012
+Investment Income,Riverside,10100,2012
+Medical Centers,Riverside,0,2012
+Other Revenues,Riverside,18021,2012
+Private Gifts,Riverside,20379,2012
+State Educational Appropriations,Riverside,146930,2012
+State Financing Appropriations,Riverside,13275,2012
+Student Tuition and Fees,Riverside,239071,2012
+Auxiliary Enterprises,San Diego,130696,2008
+Educational Activities,San Diego,223764,2008
+Grants and Contracts,San Diego,765513,2008
+Investment Income,San Diego,33682,2008
+Medical Centers,San Diego,732500,2008
+Other Revenues,San Diego,54936,2008
+Private Gifts,San Diego,59136,2008
+State Educational Appropriations,San Diego,301300,2008
+State Financing Appropriations,San Diego,17602,2008
+Student Tuition and Fees,San Diego,230451,2008
+Auxiliary Enterprises,San Diego,134575,2009
+Educational Activities,San Diego,227425,2009
+Grants and Contracts,San Diego,812824,2009
+Investment Income,San Diego,31826,2009
+Medical Centers,San Diego,805547,2009
+Other Revenues,San Diego,56752,2009
+Private Gifts,San Diego,55791,2009
+State Educational Appropriations,San Diego,244612,2009
+State Financing Appropriations,San Diego,13030,2009
+Student Tuition and Fees,San Diego,260915,2009
+Auxiliary Enterprises,San Diego,133842,2010
+Educational Activities,San Diego,260264,2010
+Grants and Contracts,San Diego,930824,2010
+Investment Income,San Diego,27501,2010
+Medical Centers,San Diego,854759,2010
+Other Revenues,San Diego,54395,2010
+Private Gifts,San Diego,85608,2010
+State Educational Appropriations,San Diego,282345,2010
+State Financing Appropriations,San Diego,15639,2010
+Student Tuition and Fees,San Diego,312657,2010
+Auxiliary Enterprises,San Diego,136374,2011
+Educational Activities,San Diego,311959,2011
+Grants and Contracts,San Diego,1020117,2011
+Investment Income,San Diego,32931,2011
+Medical Centers,San Diego,959588,2011
+Other Revenues,San Diego,50415,2011
+Private Gifts,San Diego,51284,2011
+State Educational Appropriations,San Diego,298025,2011
+State Financing Appropriations,San Diego,21113,2011
+Student Tuition and Fees,San Diego,350454,2011
+Auxiliary Enterprises,San Diego,152875,2012
+Educational Activities,San Diego,372119,2012
+Grants and Contracts,San Diego,1043877,2012
+Investment Income,San Diego,39537,2012
+Medical Centers,San Diego,1043598,2012
+Other Revenues,San Diego,63555,2012
+Private Gifts,San Diego,68333,2012
+State Educational Appropriations,San Diego,225405,2012
+State Financing Appropriations,San Diego,20860,2012
+Student Tuition and Fees,San Diego,388522,2012
+Auxiliary Enterprises,San Francisco,42468,2008
+Educational Activities,San Francisco,128469,2008
+Grants and Contracts,San Francisco,902793,2008
+Investment Income,San Francisco,81754,2008
+Medical Centers,San Francisco,1481760,2008
+Other Revenues,San Francisco,63148,2008
+Private Gifts,San Francisco,148404,2008
+State Educational Appropriations,San Francisco,231272,2008
+State Financing Appropriations,San Francisco,5089,2008
+Student Tuition and Fees,San Francisco,40898,2008
+Auxiliary Enterprises,San Francisco,43430,2009
+Educational Activities,San Francisco,134423,2009
+Grants and Contracts,San Francisco,897875,2009
+Investment Income,San Francisco,72587,2009
+Medical Centers,San Francisco,1648966,2009
+Other Revenues,San Francisco,53841,2009
+Private Gifts,San Francisco,118857,2009
+State Educational Appropriations,San Francisco,187759,2009
+State Financing Appropriations,San Francisco,6908,2009
+Student Tuition and Fees,San Francisco,44992,2009
+Auxiliary Enterprises,San Francisco,43299,2010
+Educational Activities,San Francisco,131661,2010
+Grants and Contracts,San Francisco,1019062,2010
+Investment Income,San Francisco,71828,2010
+Medical Centers,San Francisco,1791490,2010
+Other Revenues,San Francisco,60703,2010
+Private Gifts,San Francisco,172703,2010
+State Educational Appropriations,San Francisco,216303,2010
+State Financing Appropriations,San Francisco,6800,2010
+Student Tuition and Fees,San Francisco,48758,2010
+Auxiliary Enterprises,San Francisco,46635,2011
+Educational Activities,San Francisco,162035,2011
+Grants and Contracts,San Francisco,1124887,2011
+Investment Income,San Francisco,75659,2011
+Medical Centers,San Francisco,1923365,2011
+Other Revenues,San Francisco,92409,2011
+Private Gifts,San Francisco,152315,2011
+State Educational Appropriations,San Francisco,209453,2011
+State Financing Appropriations,San Francisco,6812,2011
+Student Tuition and Fees,San Francisco,52455,2011
+Auxiliary Enterprises,San Francisco,46938,2012
+Educational Activities,San Francisco,181925,2012
+Grants and Contracts,San Francisco,1121410,2012
+Investment Income,San Francisco,66818,2012
+Medical Centers,San Francisco,1975024,2012
+Other Revenues,San Francisco,78493,2012
+Private Gifts,San Francisco,124136,2012
+State Educational Appropriations,San Francisco,177927,2012
+State Financing Appropriations,San Francisco,6664,2012
+Student Tuition and Fees,San Francisco,54536,2012
+Auxiliary Enterprises,Santa Barbara,89828,2008
+Educational Activities,Santa Barbara,5870,2008
+Grants and Contracts,Santa Barbara,189489,2008
+Investment Income,Santa Barbara,9825,2008
+Medical Centers,Santa Barbara,0,2008
+Other Revenues,Santa Barbara,26717,2008
+Private Gifts,Santa Barbara,30742,2008
+State Educational Appropriations,Santa Barbara,204296,2008
+State Financing Appropriations,Santa Barbara,12739,2008
+Student Tuition and Fees,Santa Barbara,176479,2008
+Auxiliary Enterprises,Santa Barbara,97187,2009
+Educational Activities,Santa Barbara,7819,2009
+Grants and Contracts,Santa Barbara,196217,2009
+Investment Income,Santa Barbara,10586,2009
+Medical Centers,Santa Barbara,0,2009
+Other Revenues,Santa Barbara,24120,2009
+Private Gifts,Santa Barbara,33553,2009
+State Educational Appropriations,Santa Barbara,165858,2009
+State Financing Appropriations,Santa Barbara,11427,2009
+Student Tuition and Fees,Santa Barbara,192303,2009
+Auxiliary Enterprises,Santa Barbara,99471,2010
+Educational Activities,Santa Barbara,7911,2010
+Grants and Contracts,Santa Barbara,223468,2010
+Investment Income,Santa Barbara,7986,2010
+Medical Centers,Santa Barbara,0,2010
+Other Revenues,Santa Barbara,25307,2010
+Private Gifts,Santa Barbara,30110,2010
+State Educational Appropriations,Santa Barbara,191017,2010
+State Financing Appropriations,Santa Barbara,8724,2010
+Student Tuition and Fees,Santa Barbara,225934,2010
+Auxiliary Enterprises,Santa Barbara,95331,2011
+Educational Activities,Santa Barbara,7277,2011
+Grants and Contracts,Santa Barbara,228465,2011
+Investment Income,Santa Barbara,10049,2011
+Medical Centers,Santa Barbara,0,2011
+Other Revenues,Santa Barbara,24397,2011
+Private Gifts,Santa Barbara,36465,2011
+State Educational Appropriations,Santa Barbara,168662,2011
+State Financing Appropriations,Santa Barbara,11452,2011
+Student Tuition and Fees,Santa Barbara,261801,2011
+Auxiliary Enterprises,Santa Barbara,114713,2012
+Educational Activities,Santa Barbara,7559,2012
+Grants and Contracts,Santa Barbara,228623,2012
+Investment Income,Santa Barbara,4639,2012
+Medical Centers,Santa Barbara,0,2012
+Other Revenues,Santa Barbara,34009,2012
+Private Gifts,Santa Barbara,39899,2012
+State Educational Appropriations,Santa Barbara,116880,2012
+State Financing Appropriations,Santa Barbara,11289,2012
+Student Tuition and Fees,Santa Barbara,292609,2012
+Auxiliary Enterprises,Santa Cruz,83377,2008
+Educational Activities,Santa Cruz,9054,2008
+Grants and Contracts,Santa Cruz,136438,2008
+Investment Income,Santa Cruz,6186,2008
+Medical Centers,Santa Cruz,0,2008
+Other Revenues,Santa Cruz,12870,2008
+Private Gifts,Santa Cruz,9452,2008
+State Educational Appropriations,Santa Cruz,124295,2008
+State Financing Appropriations,Santa Cruz,9212,2008
+Student Tuition and Fees,Santa Cruz,122627,2008
+Auxiliary Enterprises,Santa Cruz,86863,2009
+Educational Activities,Santa Cruz,8601,2009
+Grants and Contracts,Santa Cruz,144079,2009
+Investment Income,Santa Cruz,7033,2009
+Medical Centers,Santa Cruz,0,2009
+Other Revenues,Santa Cruz,11898,2009
+Private Gifts,Santa Cruz,9253,2009
+State Educational Appropriations,Santa Cruz,100910,2009
+State Financing Appropriations,Santa Cruz,8745,2009
+Student Tuition and Fees,Santa Cruz,131404,2009
+Auxiliary Enterprises,Santa Cruz,85207,2010
+Educational Activities,Santa Cruz,1473,2010
+Grants and Contracts,Santa Cruz,151615,2010
+Investment Income,Santa Cruz,5480,2010
+Medical Centers,Santa Cruz,0,2010
+Other Revenues,Santa Cruz,10925,2010
+Private Gifts,Santa Cruz,9102,2010
+State Educational Appropriations,Santa Cruz,118065,2010
+State Financing Appropriations,Santa Cruz,6855,2010
+Student Tuition and Fees,Santa Cruz,143844,2010
+Auxiliary Enterprises,Santa Cruz,88680,2011
+Educational Activities,Santa Cruz,1388,2011
+Grants and Contracts,Santa Cruz,168095,2011
+Investment Income,Santa Cruz,7236,2011
+Medical Centers,Santa Cruz,0,2011
+Other Revenues,Santa Cruz,12902,2011
+Private Gifts,Santa Cruz,8889,2011
+State Educational Appropriations,Santa Cruz,153384,2011
+State Financing Appropriations,Santa Cruz,9166,2011
+Student Tuition and Fees,Santa Cruz,174963,2011
+Auxiliary Enterprises,Santa Cruz,100450,2012
+Educational Activities,Santa Cruz,1312,2012
+Grants and Contracts,Santa Cruz,169656,2012
+Investment Income,Santa Cruz,8808,2012
+Medical Centers,Santa Cruz,0,2012
+Other Revenues,Santa Cruz,14449,2012
+Private Gifts,Santa Cruz,10647,2012
+State Educational Appropriations,Santa Cruz,111314,2012
+State Financing Appropriations,Santa Cruz,9100,2012
+Student Tuition and Fees,Santa Cruz,206408,2012

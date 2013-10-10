@@ -1,0 +1,656 @@
+expenseFunction,campus,amount,year
+Instruction,Davis,550034,2008
+Research,Davis,419303,2008
+Public Service,Davis,62772,2008
+Academic Support,Davis,134981,2008
+Student Services,Davis,67811,2008
+Institutional Support,Davis,86149,2008
+Operation and Maintenance of Plant,Davis,93894,2008
+Student Financial Aid,Davis,40933,2008
+Medical Centers,Davis,920305,2008
+Auxiliary Enterprises,Davis,86381,2008
+Depreciation and Amortization,Davis,167299,2008
+Interest,Davis,56659,2008
+Other,Davis,4645,2008
+Instruction,Davis,559618,2009
+Research,Davis,453416,2009
+Public Service,Davis,57391,2009
+Academic Support,Davis,142811,2009
+Student Services,Davis,60829,2009
+Institutional Support,Davis,90322,2009
+Operation and Maintenance of Plant,Davis,89859,2009
+Student Financial Aid,Davis,51203,2009
+Medical Centers,Davis,976359,2009
+Auxiliary Enterprises,Davis,89997,2009
+Depreciation and Amortization,Davis,174637,2009
+Interest,Davis,43324,2009
+Other,Davis,5052,2009
+Instruction,Davis,538363,2010
+Research,Davis,478476,2010
+Public Service,Davis,55176,2010
+Academic Support,Davis,142330,2010
+Student Services,Davis,62065,2010
+Institutional Support,Davis,83845,2010
+Operation and Maintenance of Plant,Davis,82213,2010
+Student Financial Aid,Davis,66845,2010
+Medical Centers,Davis,996321,2010
+Auxiliary Enterprises,Davis,81224,2010
+Depreciation and Amortization,Davis,182548,2010
+Interest,Davis,47932,2010
+Other,Davis,3901,2010
+Instruction,Davis,564234,2011
+Research,Davis,510754,2011
+Public Service,Davis,58466,2011
+Academic Support,Davis,147116,2011
+Student Services,Davis,83355,2011
+Institutional Support,Davis,87719,2011
+Operation and Maintenance of Plant,Davis,92802,2011
+Student Financial Aid,Davis,65576,2011
+Medical Centers,Davis,1104892,2011
+Auxiliary Enterprises,Davis,86455,2011
+Depreciation and Amortization,Davis,217380,2011
+Interest,Davis,58154,2011
+Other,Davis,8299,2011
+Instruction,Davis,602100,2012
+Research,Davis,508167,2012
+Public Service,Davis,63394,2012
+Academic Support,Davis,164275,2012
+Student Services,Davis,97706,2012
+Institutional Support,Davis,146708,2012
+Operation and Maintenance of Plant,Davis,94588,2012
+Student Financial Aid,Davis,55805,2012
+Medical Centers,Davis,1216812,2012
+Auxiliary Enterprises,Davis,95825,2012
+Depreciation and Amortization,Davis,222336,2012
+Interest,Davis,62054,2012
+Other,Davis,16612,2012
+Instruction,Irvine,414623,2008
+Research,Irvine,212254,2008
+Public Service,Irvine,11382,2008
+Academic Support,Irvine,93709,2008
+Student Services,Irvine,50553,2008
+Institutional Support,Irvine,46126,2008
+Operation and Maintenance of Plant,Irvine,38591,2008
+Student Financial Aid,Irvine,54934,2008
+Medical Centers,Irvine,430378,2008
+Auxiliary Enterprises,Irvine,73017,2008
+Depreciation and Amortization,Irvine,97021,2008
+Interest,Irvine,43971,2008
+Other,Irvine,5772,2008
+Instruction,Irvine,435904,2009
+Research,Irvine,224235,2009
+Public Service,Irvine,20183,2009
+Academic Support,Irvine,107206,2009
+Student Services,Irvine,57158,2009
+Institutional Support,Irvine,47907,2009
+Operation and Maintenance of Plant,Irvine,37315,2009
+Student Financial Aid,Irvine,64742,2009
+Medical Centers,Irvine,461763,2009
+Auxiliary Enterprises,Irvine,120983,2009
+Depreciation and Amortization,Irvine,109449,2009
+Interest,Irvine,45509,2009
+Other,Irvine,10541,2009
+Instruction,Irvine,446395,2010
+Research,Irvine,226178,2010
+Public Service,Irvine,11349,2010
+Academic Support,Irvine,125854,2010
+Student Services,Irvine,58543,2010
+Institutional Support,Irvine,44805,2010
+Operation and Maintenance of Plant,Irvine,38053,2010
+Student Financial Aid,Irvine,64346,2010
+Medical Centers,Irvine,498903,2010
+Auxiliary Enterprises,Irvine,116385,2010
+Depreciation and Amortization,Irvine,116691,2010
+Interest,Irvine,47257,2010
+Other,Irvine,6916,2010
+Instruction,Irvine,424940,2011
+Research,Irvine,224826,2011
+Public Service,Irvine,16794,2011
+Academic Support,Irvine,113537,2011
+Student Services,Irvine,64921,2011
+Institutional Support,Irvine,34528,2011
+Operation and Maintenance of Plant,Irvine,39169,2011
+Student Financial Aid,Irvine,70886,2011
+Medical Centers,Irvine,535388,2011
+Auxiliary Enterprises,Irvine,98596,2011
+Depreciation and Amortization,Irvine,138685,2011
+Interest,Irvine,69582,2011
+Other,Irvine,14480,2011
+Instruction,Irvine,469580,2012
+Research,Irvine,245966,2012
+Public Service,Irvine,19952,2012
+Academic Support,Irvine,158901,2012
+Student Services,Irvine,55727,2012
+Institutional Support,Irvine,62068,2012
+Operation and Maintenance of Plant,Irvine,37427,2012
+Student Financial Aid,Irvine,81341,2012
+Medical Centers,Irvine,636827,2012
+Auxiliary Enterprises,Irvine,123764,2012
+Depreciation and Amortization,Irvine,167027,2012
+Interest,Irvine,98739,2012
+Other,Irvine,30941,2012
+Instruction,Los Angeles,1060107,2008
+Research,Los Angeles,618860,2008
+Public Service,Los Angeles,77575,2008
+Academic Support,Los Angeles,316832,2008
+Student Services,Los Angeles,68462,2008
+Institutional Support,Los Angeles,133134,2008
+Operation and Maintenance of Plant,Los Angeles,89258,2008
+Student Financial Aid,Los Angeles,63108,2008
+Medical Centers,Los Angeles,1066665,2008
+Auxiliary Enterprises,Los Angeles,239984,2008
+Depreciation and Amortization,Los Angeles,183733,2008
+Interest,Los Angeles,108279,2008
+Other,Los Angeles,28148,2008
+Instruction,Los Angeles,1117863,2009
+Research,Los Angeles,635425,2009
+Public Service,Los Angeles,91685,2009
+Academic Support,Los Angeles,321369,2009
+Student Services,Los Angeles,70056,2009
+Institutional Support,Los Angeles,144443,2009
+Operation and Maintenance of Plant,Los Angeles,96821,2009
+Student Financial Aid,Los Angeles,71197,2009
+Medical Centers,Los Angeles,1224887,2009
+Auxiliary Enterprises,Los Angeles,243858,2009
+Depreciation and Amortization,Los Angeles,239280,2009
+Interest,Los Angeles,73692,2009
+Other,Los Angeles,38025,2009
+Instruction,Los Angeles,1143524,2010
+Research,Los Angeles,676315,2010
+Public Service,Los Angeles,96140,2010
+Academic Support,Los Angeles,319987,2010
+Student Services,Los Angeles,68428,2010
+Institutional Support,Los Angeles,138551,2010
+Operation and Maintenance of Plant,Los Angeles,85722,2010
+Student Financial Aid,Los Angeles,61864,2010
+Medical Centers,Los Angeles,1223432,2010
+Auxiliary Enterprises,Los Angeles,238457,2010
+Depreciation and Amortization,Los Angeles,237387,2010
+Interest,Los Angeles,94631,2010
+Other,Los Angeles,20936,2010
+Instruction,Los Angeles,1240219,2011
+Research,Los Angeles,702469,2011
+Public Service,Los Angeles,100161,2011
+Academic Support,Los Angeles,348284,2011
+Student Services,Los Angeles,68902,2011
+Institutional Support,Los Angeles,137720,2011
+Operation and Maintenance of Plant,Los Angeles,78931,2011
+Student Financial Aid,Los Angeles,59277,2011
+Medical Centers,Los Angeles,1284846,2011
+Auxiliary Enterprises,Los Angeles,252277,2011
+Depreciation and Amortization,Los Angeles,270561,2011
+Interest,Los Angeles,121207,2011
+Other,Los Angeles,41053,2011
+Instruction,Los Angeles,1388195,2012
+Research,Los Angeles,738806,2012
+Public Service,Los Angeles,99938,2012
+Academic Support,Los Angeles,427683,2012
+Student Services,Los Angeles,106104,2012
+Institutional Support,Los Angeles,153505,2012
+Operation and Maintenance of Plant,Los Angeles,77486,2012
+Student Financial Aid,Los Angeles,44224,2012
+Medical Centers,Los Angeles,1450865,2012
+Auxiliary Enterprises,Los Angeles,276478,2012
+Depreciation and Amortization,Los Angeles,293764,2012
+Interest,Los Angeles,115293,2012
+Other,Los Angeles,53225,2012
+Instruction,Merced,16626,2008
+Research,Merced,10204,2008
+Public Service,Merced,5587,2008
+Academic Support,Merced,9192,2008
+Student Services,Merced,6079,2008
+Institutional Support,Merced,22253,2008
+Operation and Maintenance of Plant,Merced,9923,2008
+Student Financial Aid,Merced,8931,2008
+Auxiliary Enterprises,Merced,5371,2008
+Depreciation and Amortization,Merced,15863,2008
+Interest,Merced,14779,2008
+Other,Merced,-40,2008
+Instruction,Merced,21271,2009
+Research,Merced,12891,2009
+Public Service,Merced,6247,2009
+Academic Support,Merced,10678,2009
+Student Services,Merced,7620,2009
+Institutional Support,Merced,25400,2009
+Operation and Maintenance of Plant,Merced,11559,2009
+Student Financial Aid,Merced,-1279,2009
+Auxiliary Enterprises,Merced,7262,2009
+Depreciation and Amortization,Merced,17830,2009
+Interest,Merced,13446,2009
+Other,Merced,19197,2009
+Instruction,Merced,23317,2010
+Research,Merced,14153,2010
+Public Service,Merced,5158,2010
+Academic Support,Merced,10570,2010
+Student Services,Merced,8173,2010
+Institutional Support,Merced,24842,2010
+Operation and Maintenance of Plant,Merced,10286,2010
+Student Financial Aid,Merced,7254,2010
+Auxiliary Enterprises,Merced,8535,2010
+Depreciation and Amortization,Merced,18008,2010
+Interest,Merced,15605,2010
+Other,Merced,993,2010
+Instruction,Merced,28389,2011
+Research,Merced,15048,2011
+Public Service,Merced,5001,2011
+Academic Support,Merced,12013,2011
+Student Services,Merced,9540,2011
+Institutional Support,Merced,27955,2011
+Operation and Maintenance of Plant,Merced,12863,2011
+Student Financial Aid,Merced,9784,2011
+Auxiliary Enterprises,Merced,11752,2011
+Depreciation and Amortization,Merced,19552,2011
+Interest,Merced,15741,2011
+Other,Merced,850,2011
+Instruction,Merced,33786,2012
+Research,Merced,15862,2012
+Public Service,Merced,3942,2012
+Academic Support,Merced,14686,2012
+Student Services,Merced,14220,2012
+Institutional Support,Merced,34435,2012
+Operation and Maintenance of Plant,Merced,14718,2012
+Student Financial Aid,Merced,9498,2012
+Auxiliary Enterprises,Merced,13617,2012
+Depreciation and Amortization,Merced,20865,2012
+Interest,Merced,17200,2012
+Other,Merced,6340,2012
+Instruction,Riverside,152035,2008
+Research,Riverside,95406,2008
+Public Service,Riverside,5106,2008
+Academic Support,Riverside,45310,2008
+Student Services,Riverside,42748,2008
+Institutional Support,Riverside,47358,2008
+Operation and Maintenance of Plant,Riverside,27173,2008
+Student Financial Aid,Riverside,34627,2008
+Auxiliary Enterprises,Riverside,52944,2008
+Depreciation and Amortization,Riverside,51662,2008
+Interest,Riverside,10592,2008
+Other,Riverside,8677,2008
+Instruction,Riverside,164933,2009
+Research,Riverside,95875,2009
+Public Service,Riverside,4230,2009
+Academic Support,Riverside,40556,2009
+Student Services,Riverside,41544,2009
+Institutional Support,Riverside,46797,2009
+Operation and Maintenance of Plant,Riverside,27795,2009
+Student Financial Aid,Riverside,39094,2009
+Auxiliary Enterprises,Riverside,50440,2009
+Depreciation and Amortization,Riverside,52013,2009
+Interest,Riverside,14293,2009
+Other,Riverside,2441,2009
+Instruction,Riverside,162180,2010
+Research,Riverside,96563,2010
+Public Service,Riverside,4765,2010
+Academic Support,Riverside,27088,2010
+Student Services,Riverside,41217,2010
+Institutional Support,Riverside,38977,2010
+Operation and Maintenance of Plant,Riverside,28277,2010
+Student Financial Aid,Riverside,47424,2010
+Auxiliary Enterprises,Riverside,53339,2010
+Depreciation and Amortization,Riverside,52904,2010
+Interest,Riverside,18577,2010
+Other,Riverside,2830,2010
+Instruction,Riverside,177458,2011
+Research,Riverside,97165,2011
+Public Service,Riverside,5983,2011
+Academic Support,Riverside,28788,2011
+Student Services,Riverside,45531,2011
+Institutional Support,Riverside,42583,2011
+Operation and Maintenance of Plant,Riverside,30147,2011
+Student Financial Aid,Riverside,58717,2011
+Auxiliary Enterprises,Riverside,56961,2011
+Depreciation and Amortization,Riverside,57125,2011
+Interest,Riverside,21291,2011
+Other,Riverside,5591,2011
+Instruction,Riverside,197792,2012
+Research,Riverside,99023,2012
+Public Service,Riverside,5959,2012
+Academic Support,Riverside,28559,2012
+Student Services,Riverside,56864,2012
+Institutional Support,Riverside,44403,2012
+Operation and Maintenance of Plant,Riverside,31734,2012
+Student Financial Aid,Riverside,51873,2012
+Auxiliary Enterprises,Riverside,61759,2012
+Depreciation and Amortization,Riverside,56804,2012
+Interest,Riverside,20356,2012
+Other,Riverside,10003,2012
+Instruction,San Diego,476581,2008
+Research,San Diego,557902,2008
+Public Service,San Diego,16463,2008
+Academic Support,San Diego,192810,2008
+Student Services,San Diego,57152,2008
+Institutional Support,San Diego,111505,2008
+Operation and Maintenance of Plant,San Diego,63445,2008
+Student Financial Aid,San Diego,55106,2008
+Medical Centers,San Diego,656326,2008
+Auxiliary Enterprises,San Diego,107773,2008
+Depreciation and Amortization,San Diego,168423,2008
+Interest,San Diego,40554,2008
+Other,San Diego,12627,2008
+Instruction,San Diego,474703,2009
+Research,San Diego,609965,2009
+Public Service,San Diego,16808,2009
+Academic Support,San Diego,190073,2009
+Student Services,San Diego,62338,2009
+Institutional Support,San Diego,121632,2009
+Operation and Maintenance of Plant,San Diego,69355,2009
+Student Financial Aid,San Diego,58932,2009
+Medical Centers,San Diego,692853,2009
+Auxiliary Enterprises,San Diego,110933,2009
+Depreciation and Amortization,San Diego,174200,2009
+Interest,San Diego,42850,2009
+Other,San Diego,7024,2009
+Instruction,San Diego,513800,2010
+Research,San Diego,665985,2010
+Public Service,San Diego,17482,2010
+Academic Support,San Diego,196305,2010
+Student Services,San Diego,66999,2010
+Institutional Support,San Diego,104407,2010
+Operation and Maintenance of Plant,San Diego,64688,2010
+Student Financial Aid,San Diego,94148,2010
+Medical Centers,San Diego,720920,2010
+Auxiliary Enterprises,San Diego,108026,2010
+Depreciation and Amortization,San Diego,188641,2010
+Interest,San Diego,60888,2010
+Other,San Diego,11308,2010
+Instruction,San Diego,561282,2011
+Research,San Diego,700292,2011
+Public Service,San Diego,20664,2011
+Academic Support,San Diego,236464,2011
+Student Services,San Diego,75855,2011
+Institutional Support,San Diego,85663,2011
+Operation and Maintenance of Plant,San Diego,62855,2011
+Student Financial Aid,San Diego,82651,2011
+Medical Centers,San Diego,793331,2011
+Auxiliary Enterprises,San Diego,112199,2011
+Depreciation and Amortization,San Diego,195303,2011
+Interest,San Diego,66097,2011
+Other,San Diego,5461,2011
+Instruction,San Diego,601272,2012
+Research,San Diego,738309,2012
+Public Service,San Diego,20658,2012
+Academic Support,San Diego,291777,2012
+Student Services,San Diego,89354,2012
+Institutional Support,San Diego,105252,2012
+Operation and Maintenance of Plant,San Diego,60290,2012
+Student Financial Aid,San Diego,64111,2012
+Medical Centers,San Diego,911126,2012
+Auxiliary Enterprises,San Diego,123563,2012
+Depreciation and Amortization,San Diego,210886,2012
+Interest,San Diego,75932,2012
+Other,San Diego,22918,2012
+Instruction,San Francisco,213984,2008
+Research,San Francisco,618260,2008
+Public Service,San Francisco,66898,2008
+Academic Support,San Francisco,276168,2008
+Student Services,San Francisco,15054,2008
+Institutional Support,San Francisco,106471,2008
+Operation and Maintenance of Plant,San Francisco,56452,2008
+Student Financial Aid,San Francisco,33165,2008
+Medical Centers,San Francisco,1409687,2008
+Auxiliary Enterprises,San Francisco,31215,2008
+Depreciation and Amortization,San Francisco,144287,2008
+Impairment of Capital Assets,San Francisco,0,2008
+Interest,San Francisco,31267,2008
+Other,San Francisco,6478,2008
+Instruction,San Francisco,214882,2009
+Research,San Francisco,662229,2009
+Public Service,San Francisco,74517,2009
+Academic Support,San Francisco,281482,2009
+Student Services,San Francisco,16321,2009
+Institutional Support,San Francisco,111018,2009
+Operation and Maintenance of Plant,San Francisco,55010,2009
+Student Financial Aid,San Francisco,34122,2009
+Medical Centers,San Francisco,1519637,2009
+Auxiliary Enterprises,San Francisco,33199,2009
+Depreciation and Amortization,San Francisco,154093,2009
+Impairment of Capital Assets,San Francisco,0,2009
+Interest,San Francisco,30008,2009
+Other,San Francisco,15210,2009
+Instruction,San Francisco,180117,2010
+Research,San Francisco,665367,2010
+Public Service,San Francisco,84462,2010
+Academic Support,San Francisco,271208,2010
+Student Services,San Francisco,17241,2010
+Institutional Support,San Francisco,107621,2010
+Operation and Maintenance of Plant,San Francisco,72411,2010
+Student Financial Aid,San Francisco,33665,2010
+Medical Centers,San Francisco,1583444,2010
+Auxiliary Enterprises,San Francisco,31214,2010
+Depreciation and Amortization,San Francisco,167668,2010
+Impairment of Capital Assets,San Francisco,22803,2010
+Interest,San Francisco,43116,2010
+Other,San Francisco,25560,2010
+Instruction,San Francisco,239543,2011
+Research,San Francisco,698020,2011
+Public Service,San Francisco,104568,2011
+Academic Support,San Francisco,295213,2011
+Student Services,San Francisco,19475,2011
+Institutional Support,San Francisco,107217,2011
+Operation and Maintenance of Plant,San Francisco,62501,2011
+Student Financial Aid,San Francisco,16903,2011
+Medical Centers,San Francisco,1631346,2011
+Auxiliary Enterprises,San Francisco,31112,2011
+Depreciation and Amortization,San Francisco,190130,2011
+Impairment of Capital Assets,San Francisco,0,2011
+Interest,San Francisco,71298,2011
+Other,San Francisco,13314,2011
+Instruction,San Francisco,247798,2012
+Research,San Francisco,744900,2012
+Public Service,San Francisco,127770,2012
+Academic Support,San Francisco,319170,2012
+Student Services,San Francisco,21560,2012
+Institutional Support,San Francisco,173826,2012
+Operation and Maintenance of Plant,San Francisco,66599,2012
+Student Financial Aid,San Francisco,17863,2012
+Medical Centers,San Francisco,1802655,2012
+Auxiliary Enterprises,San Francisco,28694,2012
+Depreciation and Amortization,San Francisco,194007,2012
+Impairment of Capital Assets,San Francisco,0,2012
+Interest,San Francisco,88572,2012
+Other,San Francisco,5485,2012
+Instruction,Santa Barbara,201169,2008
+Research,Santa Barbara,144727,2008
+Public Service,Santa Barbara,7035,2008
+Academic Support,Santa Barbara,37862,2008
+Student Services,Santa Barbara,65206,2008
+Institutional Support,Santa Barbara,38372,2008
+Operation and Maintenance of Plant,Santa Barbara,32456,2008
+Student Financial Aid,Santa Barbara,44111,2008
+Auxiliary Enterprises,Santa Barbara,73430,2008
+Depreciation and Amortization,Santa Barbara,66175,2008
+Interest,Santa Barbara,29022,2008
+Other,Santa Barbara,4021,2008
+Instruction,Santa Barbara,204167,2009
+Research,Santa Barbara,153561,2009
+Public Service,Santa Barbara,7557,2009
+Academic Support,Santa Barbara,39977,2009
+Student Services,Santa Barbara,68234,2009
+Institutional Support,Santa Barbara,39593,2009
+Operation and Maintenance of Plant,Santa Barbara,32203,2009
+Student Financial Aid,Santa Barbara,48804,2009
+Auxiliary Enterprises,Santa Barbara,75167,2009
+Depreciation and Amortization,Santa Barbara,67600,2009
+Interest,Santa Barbara,31606,2009
+Other,Santa Barbara,16802,2009
+Instruction,Santa Barbara,196384,2010
+Research,Santa Barbara,162229,2010
+Public Service,Santa Barbara,7595,2010
+Academic Support,Santa Barbara,29217,2010
+Student Services,Santa Barbara,67093,2010
+Institutional Support,Santa Barbara,33969,2010
+Operation and Maintenance of Plant,Santa Barbara,31796,2010
+Student Financial Aid,Santa Barbara,64387,2010
+Auxiliary Enterprises,Santa Barbara,75605,2010
+Depreciation and Amortization,Santa Barbara,70700,2010
+Interest,Santa Barbara,30895,2010
+Other,Santa Barbara,6581,2010
+Instruction,Santa Barbara,198491,2011
+Research,Santa Barbara,161680,2011
+Public Service,Santa Barbara,7479,2011
+Academic Support,Santa Barbara,39090,2011
+Student Services,Santa Barbara,68348,2011
+Institutional Support,Santa Barbara,34882,2011
+Operation and Maintenance of Plant,Santa Barbara,33115,2011
+Student Financial Aid,Santa Barbara,74865,2011
+Auxiliary Enterprises,Santa Barbara,73011,2011
+Depreciation and Amortization,Santa Barbara,72049,2011
+Interest,Santa Barbara,30747,2011
+Other,Santa Barbara,10393,2011
+Instruction,Santa Barbara,218124,2012
+Research,Santa Barbara,169307,2012
+Public Service,Santa Barbara,7754,2012
+Academic Support,Santa Barbara,53160,2012
+Student Services,Santa Barbara,67312,2012
+Institutional Support,Santa Barbara,35139,2012
+Operation and Maintenance of Plant,Santa Barbara,37725,2012
+Student Financial Aid,Santa Barbara,97057,2012
+Auxiliary Enterprises,Santa Barbara,83438,2012
+Depreciation and Amortization,Santa Barbara,73124,2012
+Interest,Santa Barbara,30791,2012
+Other,Santa Barbara,11679,2012
+Instruction,Santa Cruz,125138,2008
+Research,Santa Cruz,107667,2008
+Public Service,Santa Cruz,16590,2008
+Academic Support,Santa Cruz,31184,2008
+Student Services,Santa Cruz,51023,2008
+Institutional Support,Santa Cruz,36022,2008
+Operation and Maintenance of Plant,Santa Cruz,31829,2008
+Student Financial Aid,Santa Cruz,10671,2008
+Auxiliary Enterprises,Santa Cruz,83123,2008
+Depreciation and Amortization,Santa Cruz,42554,2008
+Interest,Santa Cruz,16860,2008
+Other,Santa Cruz,1616,2008
+Instruction,Santa Cruz,126517,2009
+Research,Santa Cruz,111044,2009
+Public Service,Santa Cruz,15495,2009
+Academic Support,Santa Cruz,31641,2009
+Student Services,Santa Cruz,51513,2009
+Institutional Support,Santa Cruz,36233,2009
+Operation and Maintenance of Plant,Santa Cruz,24757,2009
+Student Financial Aid,Santa Cruz,12979,2009
+Auxiliary Enterprises,Santa Cruz,83615,2009
+Depreciation and Amortization,Santa Cruz,45147,2009
+Interest,Santa Cruz,15248,2009
+Other,Santa Cruz,116,2009
+Instruction,Santa Cruz,119956,2010
+Research,Santa Cruz,98587,2010
+Public Service,Santa Cruz,12279,2010
+Academic Support,Santa Cruz,27032,2010
+Student Services,Santa Cruz,50069,2010
+Institutional Support,Santa Cruz,29755,2010
+Operation and Maintenance of Plant,Santa Cruz,23207,2010
+Student Financial Aid,Santa Cruz,13186,2010
+Auxiliary Enterprises,Santa Cruz,83477,2010
+Depreciation and Amortization,Santa Cruz,49072,2010
+Interest,Santa Cruz,17575,2010
+Other,Santa Cruz,2962,2010
+Instruction,Santa Cruz,123884,2011
+Research,Santa Cruz,108225,2011
+Public Service,Santa Cruz,12521,2011
+Academic Support,Santa Cruz,27711,2011
+Student Services,Santa Cruz,50420,2011
+Institutional Support,Santa Cruz,36293,2011
+Operation and Maintenance of Plant,Santa Cruz,27394,2011
+Student Financial Aid,Santa Cruz,31158,2011
+Auxiliary Enterprises,Santa Cruz,80674,2011
+Depreciation and Amortization,Santa Cruz,53123,2011
+Interest,Santa Cruz,22372,2011
+Other,Santa Cruz,10636,2011
+Instruction,Santa Cruz,132786,2012
+Research,Santa Cruz,112266,2012
+Public Service,Santa Cruz,14660,2012
+Academic Support,Santa Cruz,28130,2012
+Student Services,Santa Cruz,52844,2012
+Institutional Support,Santa Cruz,38637,2012
+Operation and Maintenance of Plant,Santa Cruz,27019,2012
+Student Financial Aid,Santa Cruz,37870,2012
+Auxiliary Enterprises,Santa Cruz,77494,2012
+Depreciation and Amortization,Santa Cruz,55779,2012
+Interest,Santa Cruz,21107,2012
+Other,Santa Cruz,1802,2012
+Instruction,Berkeley,545004,2008
+Research,Berkeley,422942,2008
+Public Service,Berkeley,57943,2008
+Academic Support,Berkeley,118383,2008
+Student Services,Berkeley,117374,2008
+Institutional Support,Berkeley,127399,2008
+Operation and Maintenance of Plant,Berkeley,75589,2008
+Student Financial Aid,Berkeley,69251,2008
+Auxiliary Enterprises,Berkeley,118294,2008
+Depreciation and Amortization,Berkeley,132408,2008
+Interest,Berkeley,39851,2008
+Other,Berkeley,22433,2008
+Instruction,Berkeley,545060,2009
+Research,Berkeley,481914,2009
+Public Service,Berkeley,60678,2009
+Academic Support,Berkeley,114608,2009
+Student Services,Berkeley,120831,2009
+Institutional Support,Berkeley,131883,2009
+Operation and Maintenance of Plant,Berkeley,71377,2009
+Student Financial Aid,Berkeley,77753,2009
+Auxiliary Enterprises,Berkeley,118249,2009
+Depreciation and Amortization,Berkeley,144210,2009
+Interest,Berkeley,41217,2009
+Other,Berkeley,24560,2009
+Instruction,Berkeley,538650,2010
+Research,Berkeley,508058,2010
+Public Service,Berkeley,55393,2010
+Academic Support,Berkeley,110696,2010
+Student Services,Berkeley,114613,2010
+Institutional Support,Berkeley,117196,2010
+Operation and Maintenance of Plant,Berkeley,71518,2010
+Student Financial Aid,Berkeley,83988,2010
+Auxiliary Enterprises,Berkeley,119885,2010
+Depreciation and Amortization,Berkeley,149835,2010
+Interest,Berkeley,59083,2010
+Other,Berkeley,28593,2010
+Instruction,Berkeley,565946,2011
+Research,Berkeley,533340,2011
+Public Service,Berkeley,60122,2011
+Academic Support,Berkeley,137238,2011
+Student Services,Berkeley,119254,2011
+Institutional Support,Berkeley,134754,2011
+Operation and Maintenance of Plant,Berkeley,65687,2011
+Student Financial Aid,Berkeley,115447,2011
+Auxiliary Enterprises,Berkeley,119126,2011
+Depreciation and Amortization,Berkeley,153714,2011
+Interest,Berkeley,64077,2011
+Other,Berkeley,23224,2011
+Instruction,Berkeley,605804,2012
+Research,Berkeley,549949,2012
+Public Service,Berkeley,66759,2012
+Academic Support,Berkeley,124868,2012
+Student Services,Berkeley,128300,2012
+Institutional Support,Berkeley,154176,2012
+Operation and Maintenance of Plant,Berkeley,70379,2012
+Student Financial Aid,Berkeley,140513,2012
+Auxiliary Enterprises,Berkeley,128591,2012
+Depreciation and Amortization,Berkeley,169917,2012
+Interest,Berkeley,69710,2012
+Other,Berkeley,29338,2012
+Medical Centers,Merced,0,2008
+Medical Centers,Riverside,0,2008
+Medical Centers,Santa Barbara,0,2008
+Medical Centers,Santa Cruz,0,2008
+Medical Centers,Berkeley,0,2008
+Medical Centers,Merced,0,2009
+Medical Centers,Riverside,0,2009
+Medical Centers,Santa Barbara,0,2009
+Medical Centers,Santa Cruz,0,2009
+Medical Centers,Berkeley,0,2009
+Medical Centers,Merced,0,2010
+Medical Centers,Riverside,0,2010
+Medical Centers,Santa Barbara,0,2010
+Medical Centers,Santa Cruz,0,2010
+Medical Centers,Berkeley,0,2010
+Medical Centers,Merced,0,2011
+Medical Centers,Riverside,0,2011
+Medical Centers,Santa Barbara,0,2011
+Medical Centers,Santa Cruz,0,2011
+Medical Centers,Berkeley,0,2011
+Medical Centers,Merced,0,2012
+Medical Centers,Riverside,0,2012
+Medical Centers,Santa Barbara,0,2012
+Medical Centers,Santa Cruz,0,2012
+Medical Centers,Berkeley,0,2012
