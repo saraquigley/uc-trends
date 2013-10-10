@@ -1,4 +1,3 @@
-
 var revSourcePieChart = dc.pieChart("#rev-source-pie-chart", "revenue");
 var sourceOfRevenueChart = dc.rowChart("#revenue-source-chart", "revenue");
 var revByCampusChart = dc.barChart("#rev-by-campus-chart", "revenue");
