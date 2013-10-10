@@ -1,4 +1,3 @@
-
 var functionPieChart = dc.pieChart("#function-pie-chart", "expenditures");
 var functionChart = dc.rowChart("#function-chart", "expenditures");
 var expByCampusChart = dc.barChart("#exp-by-campus-chart", "expenditures");
