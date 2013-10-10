@@ -9,7 +9,7 @@ var g;
 d3.selectAll("#version").text(dc.version);
 
 // load data from a csv file
-d3.csv("expenseTarget_allYears.csv", function (data) {
+d3.csv("javascript/expenseTarget_allYears.csv", function (data) {
             // since its a csv file we need to format the data a bit
             var dateFormat = d3.time.format("%Y");
             var numberFormat = d3.format(",f");
