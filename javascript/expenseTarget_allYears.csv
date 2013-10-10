@@ -1,0 +1,401 @@
+expenseTarget,campus,amount,year
+Depreciation,Berkeley,132408,2008
+Employee Benefits,Berkeley,204245,2008
+Interest,Berkeley,39851,2008
+Other Expenses,Berkeley,292993,2008
+Salaries and Wages,Berkeley,932217,2008
+Scholarships and Fellowships,Berkeley,75736,2008
+Supplies and Materials,Berkeley,133494,2008
+Utilities,Berkeley,35927,2008
+Depreciation,Berkeley,144210,2009
+Employee Benefits,Berkeley,220463,2009
+Interest,Berkeley,41217,2009
+Other Expenses,Berkeley,294741,2009
+Salaries and Wages,Berkeley,973011,2009
+Scholarships and Fellowships,Berkeley,77275,2009
+Supplies and Materials,Berkeley,138976,2009
+Utilities,Berkeley,42447,2009
+Depreciation,Berkeley,149835,2010
+Employee Benefits,Berkeley,234806,2010
+Interest,Berkeley,59083,2010
+Other Expenses,Berkeley,313303,2010
+Salaries and Wages,Berkeley,940124,2010
+Scholarships and Fellowships,Berkeley,80668,2010
+Supplies and Materials,Berkeley,144264,2010
+Utilities,Berkeley,35425,2010
+Depreciation,Berkeley,153714,2011
+Employee Benefits,Berkeley,264889,2011
+Interest,Berkeley,64077,2011
+Other Expenses,Berkeley,364613,2011
+Salaries and Wages,Berkeley,958244,2011
+Scholarships and Fellowships,Berkeley,110067,2011
+Supplies and Materials,Berkeley,141234,2011
+Utilities,Berkeley,35091,2011
+Depreciation,Berkeley,169917,2012
+Employee Benefits,Berkeley,316178,2012
+Interest,Berkeley,69710,2012
+Other Expenses,Berkeley,354496,2012
+Salaries and Wages,Berkeley,995852,2012
+Scholarships and Fellowships,Berkeley,139683,2012
+Supplies and Materials,Berkeley,156565,2012
+Utilities,Berkeley,35903,2012
+Depreciation,Davis,167299,2008
+Employee Benefits,Davis,310039,2008
+Interest,Davis,56659,2008
+Other Expenses,Davis,283930,2008
+Salaries and Wages,Davis,1443681,2008
+Scholarships and Fellowships,Davis,45459,2008
+Supplies and Materials,Davis,334957,2008
+Utilities,Davis,49142,2008
+Depreciation,Davis,174637,2009
+Employee Benefits,Davis,339985,2009
+Interest,Davis,43324,2009
+Other Expenses,Davis,274569,2009
+Salaries and Wages,Davis,1495738,2009
+Scholarships and Fellowships,Davis,51267,2009
+Supplies and Materials,Davis,366665,2009
+Utilities,Davis,48633,2009
+Depreciation,Davis,182548,2010
+Employee Benefits,Davis,364247,2010
+Interest,Davis,47932,2010
+Other Expenses,Davis,250231,2010
+Salaries and Wages,Davis,1494356,2010
+Scholarships and Fellowships,Davis,65414,2010
+Supplies and Materials,Davis,370407,2010
+Utilities,Davis,46104,2010
+Depreciation,Davis,217380,2011
+Employee Benefits,Davis,444284,2011
+Interest,Davis,58154,2011
+Other Expenses,Davis,347366,2011
+Salaries and Wages,Davis,1556793,2011
+Scholarships and Fellowships,Davis,63906,2011
+Supplies and Materials,Davis,357008,2011
+Utilities,Davis,40311,2011
+Depreciation,Davis,222336,2012
+Employee Benefits,Davis,524445,2012
+Interest,Davis,62054,2012
+Other Expenses,Davis,392405,2012
+Salaries and Wages,Davis,1663358,2012
+Scholarships and Fellowships,Davis,54849,2012
+Supplies and Materials,Davis,388791,2012
+Utilities,Davis,38144,2012
+Depreciation,Irvine,109449,2008
+Employee Benefits,Irvine,184471,2008
+Interest,Irvine,45509,2008
+Other Expenses,Irvine,259042,2008
+Salaries and Wages,Irvine,857598,2008
+Scholarships and Fellowships,Irvine,58034,2008
+Supplies and Materials,Irvine,193063,2008
+Utilities,Irvine,35729,2008
+Depreciation,Irvine,116691,2009
+Employee Benefits,Irvine,199241,2009
+Interest,Irvine,47257,2009
+Other Expenses,Irvine,266250,2009
+Salaries and Wages,Irvine,891224,2009
+Scholarships and Fellowships,Irvine,58352,2009
+Supplies and Materials,Irvine,192581,2009
+Utilities,Irvine,30079,2009
+Depreciation,Irvine,138685,2010
+Employee Benefits,Irvine,213900,2010
+Interest,Irvine,69582,2010
+Other Expenses,Irvine,261924,2010
+Salaries and Wages,Irvine,880882,2010
+Scholarships and Fellowships,Irvine,64117,2010
+Supplies and Materials,Irvine,187438,2010
+Utilities,Irvine,29804,2010
+Depreciation,Irvine,159499,2011
+Employee Benefits,Irvine,256577,2011
+Interest,Irvine,86268,2011
+Other Expenses,Irvine,300281,2011
+Salaries and Wages,Irvine,922986,2011
+Scholarships and Fellowships,Irvine,79017,2011
+Supplies and Materials,Irvine,200476,2011
+Utilities,Irvine,26237,2011
+Depreciation,Irvine,167027,2012
+Employee Benefits,Irvine,302111,2012
+Interest,Irvine,98739,2012
+Other Expenses,Irvine,333832,2012
+Salaries and Wages,Irvine,983909,2012
+Scholarships and Fellowships,Irvine,74915,2012
+Supplies and Materials,Irvine,202101,2012
+Utilities,Irvine,25626,2012
+Depreciation,Los Angeles,183733,2008
+Employee Benefits,Los Angeles,425976,2008
+Interest,Los Angeles,108279,2008
+Other Expenses,Los Angeles,622623,2008
+Salaries and Wages,Los Angeles,2105857,2008
+Scholarships and Fellowships,Los Angeles,60623,2008
+Supplies and Materials,Los Angeles,445248,2008
+Utilities,Los Angeles,101806,2008
+Depreciation,Los Angeles,239280,2009
+Employee Benefits,Los Angeles,463602,2009
+Interest,Los Angeles,73692,2009
+Other Expenses,Los Angeles,731134,2009
+Salaries and Wages,Los Angeles,2243390,2009
+Scholarships and Fellowships,Los Angeles,68599,2009
+Supplies and Materials,Los Angeles,496647,2009
+Utilities,Los Angeles,52257,2009
+Depreciation,Los Angeles,237387,2010
+Employee Benefits,Los Angeles,503018,2010
+Interest,Los Angeles,94631,2010
+Other Expenses,Los Angeles,728785,2010
+Salaries and Wages,Los Angeles,2278595,2010
+Scholarships and Fellowships,Los Angeles,59422,2010
+Supplies and Materials,Los Angeles,460137,2010
+Utilities,Los Angeles,43399,2010
+Depreciation,Los Angeles,270561,2011
+Employee Benefits,Los Angeles,613749,2011
+Interest,Los Angeles,121207,2011
+Other Expenses,Los Angeles,805369,2011
+Salaries and Wages,Los Angeles,2369612,2011
+Scholarships and Fellowships,Los Angeles,56284,2011
+Supplies and Materials,Los Angeles,423463,2011
+Utilities,Los Angeles,45662,2011
+Depreciation,Los Angeles,293764,2012
+Employee Benefits,Los Angeles,738175,2012
+Interest,Los Angeles,115293,2012
+Other Expenses,Los Angeles,901940,2012
+Salaries and Wages,Los Angeles,2556884,2012
+Scholarships and Fellowships,Los Angeles,41291,2012
+Supplies and Materials,Los Angeles,533774,2012
+Utilities,Los Angeles,44445,2012
+Depreciation,Merced,15863,2008
+Employee Benefits,Merced,10677,2008
+Interest,Merced,14779,2008
+Other Expenses,Merced,13984,2008
+Salaries and Wages,Merced,48505,2008
+Scholarships and Fellowships,Merced,8966,2008
+Supplies and Materials,Merced,9147,2008
+Utilities,Merced,2847,2008
+Depreciation,Merced,17830,2009
+Employee Benefits,Merced,13243,2009
+Interest,Merced,13446,2009
+Other Expenses,Merced,16950,2009
+Salaries and Wages,Merced,58503,2009
+Scholarships and Fellowships,Merced,-916,2009
+Supplies and Materials,Merced,29780,2009
+Utilities,Merced,3286,2009
+Depreciation,Merced,18008,2010
+Employee Benefits,Merced,16316,2010
+Interest,Merced,15605,2010
+Other Expenses,Merced,14375,2010
+Salaries and Wages,Merced,61222,2010
+Scholarships and Fellowships,Merced,7580,2010
+Supplies and Materials,Merced,10422,2010
+Utilities,Merced,3366,2010
+Depreciation,Merced,19552,2011
+Employee Benefits,Merced,20728,2011
+Interest,Merced,15741,2011
+Other Expenses,Merced,18578,2011
+Salaries and Wages,Merced,67100,2011
+Scholarships and Fellowships,Merced,9784,2011
+Supplies and Materials,Merced,13260,2011
+Utilities,Merced,3745,2011
+Depreciation,Merced,20865,2012
+Employee Benefits,Merced,26583,2012
+Interest,Merced,17200,2012
+Other Expenses,Merced,26625,2012
+Salaries and Wages,Merced,76274,2012
+Scholarships and Fellowships,Merced,9498,2012
+Supplies and Materials,Merced,17747,2012
+Utilities,Merced,4377,2012
+Depreciation,Riverside,51662,2008
+Employee Benefits,Riverside,67913,2008
+Interest,Riverside,10592,2008
+Other Expenses,Riverside,62584,2008
+Salaries and Wages,Riverside,273129,2008
+Scholarships and Fellowships,Riverside,34622,2008
+Supplies and Materials,Riverside,57062,2008
+Utilities,Riverside,16074,2008
+Depreciation,Riverside,52013,2009
+Employee Benefits,Riverside,73748,2009
+Interest,Riverside,14293,2009
+Other Expenses,Riverside,52515,2009
+Salaries and Wages,Riverside,286888,2009
+Scholarships and Fellowships,Riverside,39011,2009
+Supplies and Materials,Riverside,47952,2009
+Utilities,Riverside,13591,2009
+Depreciation,Riverside,52904,2010
+Employee Benefits,Riverside,75671,2010
+Interest,Riverside,18577,2010
+Other Expenses,Riverside,43692,2010
+Salaries and Wages,Riverside,278880,2010
+Scholarships and Fellowships,Riverside,47454,2010
+Supplies and Materials,Riverside,43328,2010
+Utilities,Riverside,13635,2010
+Depreciation,Riverside,57125,2011
+Employee Benefits,Riverside,90946,2011
+Interest,Riverside,21291,2011
+Other Expenses,Riverside,46046,2011
+Salaries and Wages,Riverside,286680,2011
+Scholarships and Fellowships,Riverside,58766,2011
+Supplies and Materials,Riverside,51457,2011
+Utilities,Riverside,15029,2011
+Depreciation,Riverside,56804,2012
+Employee Benefits,Riverside,104254,2012
+Interest,Riverside,20356,2012
+Other Expenses,Riverside,64329,2012
+Salaries and Wages,Riverside,292549,2012
+Scholarships and Fellowships,Riverside,52107,2012
+Supplies and Materials,Riverside,58847,2012
+Utilities,Riverside,15883,2012
+Depreciation,San Diego,168423,2008
+Employee Benefits,San Diego,252920,2008
+Interest,San Diego,40554,2008
+Other Expenses,San Diego,300349,2008
+Salaries and Wages,San Diego,1249558,2008
+Scholarships and Fellowships,San Diego,51625,2008
+Supplies and Materials,San Diego,383559,2008
+Utilities,San Diego,69679,2008
+Depreciation,San Diego,174201,2009
+Employee Benefits,San Diego,278283,2009
+Interest,San Diego,42850,2009
+Other Expenses,San Diego,330580,2009
+Salaries and Wages,San Diego,1319900,2009
+Scholarships and Fellowships,San Diego,57962,2009
+Supplies and Materials,San Diego,379893,2009
+Utilities,San Diego,47997,2009
+Depreciation,San Diego,188641,2010
+Employee Benefits,San Diego,313095,2010
+Interest,San Diego,60888,2010
+Other Expenses,San Diego,330480,2010
+Salaries and Wages,San Diego,1394308,2010
+Scholarships and Fellowships,San Diego,90265,2010
+Supplies and Materials,San Diego,388839,2010
+Utilities,San Diego,47081,2010
+Depreciation,San Diego,195303,2011
+Employee Benefits,San Diego,382700,2011
+Interest,San Diego,66097,2011
+Other Expenses,San Diego,381495,2011
+Salaries and Wages,San Diego,1481492,2011
+Scholarships and Fellowships,San Diego,80811,2011
+Supplies and Materials,San Diego,363459,2011
+Utilities,San Diego,46760,2011
+Depreciation,San Diego,210886,2012
+Employee Benefits,San Diego,455101,2012
+Interest,San Diego,75932,2012
+Other Expenses,San Diego,482439,2012
+Salaries and Wages,San Diego,1569706,2012
+Scholarships and Fellowships,San Diego,74093,2012
+Supplies and Materials,San Diego,401852,2012
+Utilities,San Diego,45439,2012
+Depreciation,San Francisco,144287,2008
+Employee Benefits,San Francisco,295308,2008
+Interest,San Francisco,31267,2008
+Other Expenses,San Francisco,446427,2008
+Salaries and Wages,San Francisco,1582335,2008
+Scholarships and Fellowships,San Francisco,34334,2008
+Supplies and Materials,San Francisco,431265,2008
+Utilities,San Francisco,44163,2008
+Depreciation,San Francisco,154093,2009
+Employee Benefits,San Francisco,327710,2009
+Interest,San Francisco,30008,2009
+Other Expenses,San Francisco,481339,2009
+Salaries and Wages,San Francisco,1693034,2009
+Scholarships and Fellowships,San Francisco,34549,2009
+Supplies and Materials,San Francisco,444700,2009
+Utilities,San Francisco,36295,2009
+Depreciation,San Francisco,167668,2010
+Employee Benefits,San Francisco,347052,2010
+Interest,San Francisco,43116,2010
+Other Expenses,San Francisco,501156,2010
+Salaries and Wages,San Francisco,1706520,2010
+Scholarships and Fellowships,San Francisco,35631,2010
+Supplies and Materials,San Francisco,472102,2010
+Utilities,San Francisco,32652,2010
+Depreciation,San Francisco,190131,2011
+Employee Benefits,San Francisco,418384,2011
+Interest,San Francisco,71298,2011
+Other Expenses,San Francisco,494149,2011
+Salaries and Wages,San Francisco,1800725,2011
+Scholarships and Fellowships,San Francisco,29855,2011
+Supplies and Materials,San Francisco,442632,2011
+Utilities,San Francisco,33466,2011
+Depreciation,San Francisco,194007,2012
+Employee Benefits,San Francisco,492334,2012
+Interest,San Francisco,88572,2012
+Other Expenses,San Francisco,523036,2012
+Salaries and Wages,San Francisco,1981850,2012
+Scholarships and Fellowships,San Francisco,22397,2012
+Supplies and Materials,San Francisco,501431,2012
+Utilities,San Francisco,35272,2012
+Depreciation,Santa Barbara,66175,2008
+Employee Benefits,Santa Barbara,87302,2008
+Interest,Santa Barbara,29022,2008
+Other Expenses,Santa Barbara,87752,2008
+Salaries and Wages,Santa Barbara,364361,2008
+Scholarships and Fellowships,Santa Barbara,44110,2008
+Supplies and Materials,Santa Barbara,47520,2008
+Utilities,Santa Barbara,17344,2008
+Depreciation,Santa Barbara,67600,2009
+Employee Benefits,Santa Barbara,93029,2009
+Interest,Santa Barbara,31606,2009
+Other Expenses,Santa Barbara,102644,2009
+Salaries and Wages,Santa Barbara,376059,2009
+Scholarships and Fellowships,Santa Barbara,48804,2009
+Supplies and Materials,Santa Barbara,48896,2009
+Utilities,Santa Barbara,16633,2009
+Depreciation,Santa Barbara,70700,2010
+Employee Benefits,Santa Barbara,100150,2010
+Interest,Santa Barbara,30895,2010
+Other Expenses,Santa Barbara,92588,2010
+Salaries and Wages,Santa Barbara,356545,2010
+Scholarships and Fellowships,Santa Barbara,64558,2010
+Supplies and Materials,Santa Barbara,46224,2010
+Utilities,Santa Barbara,14791,2010
+Depreciation,Santa Barbara,72049,2011
+Employee Benefits,Santa Barbara,112305,2011
+Interest,Santa Barbara,30747,2011
+Other Expenses,Santa Barbara,88882,2011
+Salaries and Wages,Santa Barbara,363096,2011
+Scholarships and Fellowships,Santa Barbara,74981,2011
+Supplies and Materials,Santa Barbara,46280,2011
+Utilities,Santa Barbara,15810,2011
+Depreciation,Santa Barbara,73124,2012
+Employee Benefits,Santa Barbara,128356,2012
+Interest,Santa Barbara,30791,2012
+Other Expenses,Santa Barbara,108046,2012
+Salaries and Wages,Santa Barbara,392022,2012
+Scholarships and Fellowships,Santa Barbara,88826,2012
+Supplies and Materials,Santa Barbara,47428,2012
+Utilities,Santa Barbara,16017,2012
+Depreciation,Santa Cruz,42554,2008
+Employee Benefits,Santa Cruz,62000,2008
+Interest,Santa Cruz,16860,2008
+Other Expenses,Santa Cruz,86456,2008
+Salaries and Wages,Santa Cruz,270382,2008
+Scholarships and Fellowships,Santa Cruz,12634,2008
+Supplies and Materials,Santa Cruz,47181,2008
+Utilities,Santa Cruz,16210,2008
+Depreciation,Santa Cruz,45147,2009
+Employee Benefits,Santa Cruz,64820,2009
+Interest,Santa Cruz,15248,2009
+Other Expenses,Santa Cruz,73037,2009
+Salaries and Wages,Santa Cruz,280758,2009
+Scholarships and Fellowships,Santa Cruz,14497,2009
+Supplies and Materials,Santa Cruz,44747,2009
+Utilities,Santa Cruz,16051,2009
+Depreciation,Santa Cruz,49071,2010
+Employee Benefits,Santa Cruz,66668,2010
+Interest,Santa Cruz,17575,2010
+Other Expenses,Santa Cruz,55946,2010
+Salaries and Wages,Santa Cruz,261035,2010
+Scholarships and Fellowships,Santa Cruz,15400,2010
+Supplies and Materials,Santa Cruz,45466,2010
+Utilities,Santa Cruz,15996,2010
+Depreciation,Santa Cruz,53123,2011
+Employee Benefits,Santa Cruz,77989,2011
+Interest,Santa Cruz,22372,2011
+Other Expenses,Santa Cruz,67732,2011
+Salaries and Wages,Santa Cruz,265370,2011
+Scholarships and Fellowships,Santa Cruz,33122,2011
+Supplies and Materials,Santa Cruz,48148,2011
+Utilities,Santa Cruz,16555,2011
+Depreciation,Santa Cruz,55779,2012
+Employee Benefits,Santa Cruz,87280,2012
+Interest,Santa Cruz,21107,2012
+Other Expenses,Santa Cruz,65736,2012
+Salaries and Wages,Santa Cruz,271842,2012
+Scholarships and Fellowships,Santa Cruz,40949,2012
+Supplies and Materials,Santa Cruz,41334,2012
+Utilities,Santa Cruz,16367,2012
